@@ -4,7 +4,8 @@
   "description": "Warmup repository for 10xDevs.pl program.",
   "main": "index.js",
   "scripts": {
-    "test": "vitest"
+    "test": "vitest",
+    "test:banking": "vitest banking/"
   },
   "author": "Przeprogramowani",
   "license": "ISC",
